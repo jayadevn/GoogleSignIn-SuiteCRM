@@ -236,6 +236,7 @@ if (
 $google_signin_clientid = $sugar_config['google_signin_clientid'];
 
 echo $AAA = <<<EOQ
+	<script src="https://apis.google.com/js/platform.js" async defer></script>
     <script>
         $(document).ready(function(){
 			var googleSignInClientId = '$google_signin_clientid';
