@@ -9,4 +9,6 @@ Before moving further, first we need to configure a project in Google Developer 
 
 Once you saved those details, then you'll get to see the ***Sign in With Google*** button on login screen. Before logging in using google credentials, kindly make sure that your google email address is stored as the CRM user's primary email address.
 
-![LOGIN SCREEN](https://raw.githubusercontent.com/changezkhan/crm/master/1.JPG)
+## DEMO
+
+![LOGIN SCREEN](https://raw.githubusercontent.com/changezkhan/crm/master/google_login.gif)
